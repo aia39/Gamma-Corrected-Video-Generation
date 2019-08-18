@@ -3,6 +3,7 @@ When there is some challenge to overcome where it is the matter of brightness,lu
 
 
 Gamma correction is mainly increment or decrement in gamma of an image 
+
 ![Gamma Corrected Image](g_corr.jpg)
 
 # Installation
@@ -11,6 +12,7 @@ Gamma correction is mainly increment or decrement in gamma of an image
 2. Install dependencies
 (OpenCV 3.4.3. or above,numpy and other basic dependencies which is usually used)
 If you need help you can check (https://jeanvitor.com/cpp-opencv-windonws10-installing/)
+
 Numpy and os is necessary.
 
 # How to Generate:
